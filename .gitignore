@@ -1,0 +1,10 @@
+/node_modules
+/album
+/.nvm
+/go
+/.android
+*.Zone.Identifier
+/.local
+/.npm
+/.vim
+/.cache
